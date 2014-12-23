@@ -246,7 +246,7 @@ public class Timer
     {
         // return current
         time += window;
-        System.out.println(time);
+//        System.out.println(time);
         try {
             current = new Hashtable<String, Dictionary<String, Dictionary<String, String>>>(); // type
                                                                                                // /
